@@ -1,0 +1,13 @@
+{
+  "name": "wp-launchpad/framework-options-renderer",
+  "description": "Options library take off for the framework Launchpad",
+  "extra": {
+    "launchpad": {
+      "clean": true,
+      "install": true,
+      "libraries" : {
+        "wp-launchpad/framework-options": "^0.0"
+      }
+    }
+  }
+}
