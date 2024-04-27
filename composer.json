@@ -3,6 +3,7 @@
   "description": "Options library take off for the framework Launchpad",
   "extra": {
     "launchpad": {
+      "provider" : "LaunchpadFrameworkOptions\\ServiceProvider",
       "clean": true,
       "install": true,
       "libraries" : {
